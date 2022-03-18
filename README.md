@@ -4,7 +4,11 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+E-Commerce App:
+ Stack: Firebase, GetX,
+ it is E-Commerce App in which there are products, a cart and the
+ user's personal page with modifications.
+
 
 A few resources to get you started if this is your first Flutter project:
 
