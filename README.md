@@ -8,6 +8,7 @@ E-Commerce App:
  Stack: Firebase, GetX,
  it is E-Commerce App in which there are products, a cart and the
  user's personal page with modifications.
+ https://user-images.githubusercontent.com/74645031/159064068-028a1d2d-adbc-4bca-ab45-e69faae17b28.mp4
 
 
 A few resources to get you started if this is your first Flutter project:
