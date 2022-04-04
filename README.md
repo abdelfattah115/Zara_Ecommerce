@@ -8,6 +8,24 @@ A new Flutter project.
  
  it is E-Commerce App in which there are products, a cart and the
  user's personal page with modifications.
+ 
+ ### Usage Libraries
+ - google_sign_in: 
+ - firebase_auth: 
+ - firebase_core: 
+ - get: 
+ - get_storage: 
+ - google_fonts: 
+ - http: 
+ - flutter_facebook_auth: 
+ - badges: 
+ - carousel_slider: 
+ - smooth_page_indicator: 
+ - flutter_rating_bar: 
+ - readmore: 
+ - geolocator: 
+ - geocoding:
+ - flutter_launcher_icons: 
 
 
 https://user-images.githubusercontent.com/74645031/159064068-028a1d2d-adbc-4bca-ab45-e69faae17b28.mp4
